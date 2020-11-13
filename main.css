@@ -40,6 +40,9 @@ body {
     color: white;
     flex: 1;
 }
+#message {
+    font-size: 30px;
+}
 .row2 {
     background: url(./table.jpg);
     width: 100%;
